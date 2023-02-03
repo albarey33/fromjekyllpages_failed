@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "ANSE PORTFOLIO"
+title: "ANSE PAGE CASES"
 permalink: /cases
 ---
 
-# Cases
+# Cases in root folder
 
 Case 1
 
