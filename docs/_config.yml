@@ -29,8 +29,10 @@ url: https://albarey33.github.io # the base hostname & protocol for your site, e
 twitter_username: jekyllrb
 github_username:  jekyll
 
+
+# Dinky # jekyll-theme-chirpy # minima
 # Build settings
-theme: Dinky # jekyll-theme-chirpy # minima
+theme: minima  
 plugins:
   - jekyll-feed
 
